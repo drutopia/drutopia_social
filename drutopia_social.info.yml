@@ -1,5 +1,5 @@
 name: 'Drutopia Social'
-description: "Provides a social media block, perhaps more in the future.\r\n"
+description: "Provides a social media block."
 type: module
 core: 8.x
 dependencies:
