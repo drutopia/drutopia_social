@@ -1,7 +1,6 @@
 {
   "name": "drupal/drutopia_social",
-  "description": "Drutopia Social provides a social media block, perhaps more in the future.
-",
+  "description": "Drutopia Social provides a social media block, perhaps more in the future.",
   "type": "drupal-module",
   "license": "GPL-2.0+",
   "homepage": "https://gitlab.com/drutopia/drutopia_social",
